@@ -1,0 +1,23 @@
+{
+  "name": "ti.windows.utilities",
+  "version": "1.0.0",
+  "description": "Hyperloop-based utility module for UWP development",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "docs": "jsdoc ./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewanharris/ti.windows.utilities.git"
+  },
+  "keywords": [],
+  "author": "Ewan Harris <ewanharris93@gmail.com>",
+  "license": "Apache Public License v2",
+  "bugs": {
+    "url": "https://github.com/ewanharris/ti.windows.utilities/issues"
+  },
+  "homepage": "https://github.com/ewanharris/ti.windows.utilities#readme"
+}
