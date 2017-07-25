@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "docs": "jsdoc ./lib"
+    "docs": "jsdoc ./lib -d docs"
   },
   "repository": {
     "type": "git",
