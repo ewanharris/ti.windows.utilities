@@ -21,6 +21,8 @@ console.log(utils.isApiContractPresent('Windows.Media.Playlists.PlaylistsContrac
 console.log(utils.isTypePresent('Windows.Phone.UI.Input.HardwareButtons'));
 ````
 
+Docs at  https://ewanharris.github.io/ti.windows.utilities/
+
 ### License
 Apache 2.0
 
